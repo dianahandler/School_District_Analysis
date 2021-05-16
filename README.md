@@ -34,7 +34,25 @@ Before our analysis, Thomas High School had an average math score of 83.418349. 
 
 After our analysis, the high school's average math score is reported at 83.350937 and their average reading score is 83.896082.
 
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Before our analysis, Thomas High School was in the top five schools as seen below:
 
+![top_schools_before](https://user-images.githubusercontent.com/82029390/118407481-e6c05200-b64e-11eb-97d4-133e71d0e9f6.png)
 
-###
+After our analysis, Thomas High School is still in the top five.
+![top_schools_after](https://user-images.githubusercontent.com/82029390/118407488-fb044f00-b64e-11eb-949b-90af86d816ea.png)
+
+Thus no significant change is observed when assessing Thomas High School's placement relative to the other schools.
+
+### Effects of replacing ninth grade scores
+#### Math and reading scores by grade
+The effects of this analysis were minimal, only seen in the tenths and hundreths place of a decimal.
+### Scores by school spending
+There was no significant change in our school spending
+### Scores by school size
+There was no significant change in scores by school size
+### Scores by school type
+There was no significant change in our scores by school type
+
+## Summary
 
