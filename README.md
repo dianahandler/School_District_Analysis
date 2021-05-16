@@ -14,6 +14,7 @@ The following questions will be addressed
 ### How is the district summary affected?
 The district summary changes are small but visible in our analyses. Below is our district summary before and after our data manipulation.
 Before:
+
 ![district_summary_before](https://user-images.githubusercontent.com/82029390/118407133-47e72600-b64d-11eb-8a1c-dfa5b94b9ab1.png)
 
 After:
