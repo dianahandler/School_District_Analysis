@@ -12,5 +12,9 @@ The following questions will be addressed
   -  scores by school size
   -  scores by school type
 ### How is the district summary affected?
-   
+   The changes appear to be very minimal when comparing the average reading and math scores. 
+![math_reading_before](https://user-images.githubusercontent.com/82029390/118406862-d8bd0200-b64b-11eb-9404-03c8d41a7ae9.png)
+Before our analysis, Thomas High School had an average math score of 83.418349. It's average reading score was 83.84893.
 
+![math_reading_after](https://user-images.githubusercontent.com/82029390/118406920-2f2a4080-b64c-11eb-9877-2b3f9c93c5f3.png)
+After our analysis, the high school's average math score is reported at 83.350937 and their average reading score is 83.896082.
