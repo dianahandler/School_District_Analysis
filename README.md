@@ -55,4 +55,4 @@ There was no significant change in scores by school size
 There was no significant change in our scores by school type
 
 ## Summary
-
+For the most part, there was no drastic change in our data after removing ninth grade reading and math scores from Thomas High School. This was to be expected as we only removed 461 data points from a dataset of 39,171. We did however see a small change in both the reading and math scores among Thomas High School scores alone. Their scores decreased ever so slightly. We also obeserve a decrease in overall passing percentage. The passing percentage for math and reading also dropped slightly.
